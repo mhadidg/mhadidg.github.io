@@ -1,0 +1,61 @@
+:root {
+    --background: hsla(270, 20%, 10%, 100%);
+    --foreground: hsla(270, 50%, 70%, 100%);
+    --dark: hsla(270, 20%, 30%, 100%);
+    --gray: hsla(270, 20%, 55%, 100%);
+    --light: hsla(270, 50%, 90%, 100%);
+}
+
+body {
+    font-family: "Roboto Mono", monospace;
+    background: var(--background);
+    color: var(--foreground);
+    font-size: 20px;
+    line-height: 1.5;
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    max-width: 70ch;
+}
+
+h1, h2, h3, h4 {
+    font: inherit;
+    font-weight: normal;
+    color: var(--light);
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+a {
+    color: var(--gray);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--light);
+    text-decoration: none;
+}
+
+span {
+    color: var(--dark);
+}
+
+pre {
+    font-family: "Roboto Mono", monospace;
+    color: var(--dark);
+}
+
+footer {
+    color: var(--dark);
+}
