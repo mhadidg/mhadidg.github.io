@@ -1,7 +1,7 @@
 # Adapted from: https://github.com/tomfran/tomfran.github.io/blob/main/hugo.toml
 # Original Author: Francesco (@tomfran)
 
-baseURL = 'https://example.org/'
+baseURL = 'https://hadid.dev'
 languageCode = 'en-us'
 title = "Mustapha Hadid"
 theme = 'typo'
@@ -10,7 +10,7 @@ theme = 'typo'
 tag = 'tags'
 
 [params]
-# Home meta description
+# Meta-description of homepage
 description = "A tech-oriented personal blog curated by Mustapha Hadid."
 
 # Appearance settings
@@ -18,7 +18,7 @@ theme = 'auto'
 colorPalette = 'default'
 hideHeader = false
 
-# Intro on main page, content in markdown
+# Intro on homepage, content in Markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
 Experienced software engineer specialized in Backend Development with a passion for building scalable, elegant, and
