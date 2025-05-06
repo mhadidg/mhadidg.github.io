@@ -1,2 +1,6 @@
+# Intellij IDE
 .idea
+
+# Hugo artifacts
 .hugo_build.lock
+public
