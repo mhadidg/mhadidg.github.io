@@ -1,0 +1,97 @@
+# Adapted from: https://github.com/tomfran/tomfran.github.io/blob/main/hugo.toml
+# Original Author: Francesco (@tomfran)
+
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Mustapha Hadid"
+theme = 'typo'
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+# Home meta description
+description = "A tech-oriented personal blog curated by Mustapha Hadid."
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content in markdown
+homeIntroTitle = 'Hi!'
+homeIntroContent = """
+Experienced software engineer specialized in Backend Development with a passion for building scalable, elegant, and
+maintainable systems. Known for clear, efficient solutions and rigorous testing practices.\\
+Feel free to read [about myself](/about) or to look at my [posts](/posts).
+"""
+
+singleDateFormat = '2 Jan 2006'
+
+# Collection to display on home
+# homeCollectionTitle = 'Posts'
+# homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '02 Jan 2006'
+
+# Footer
+showFooter = true
+
+# Breadcrumbs
+[params.breadcrumbs]
+enabled = true
+showCurrentPage = true
+home = "~"
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/mhadidg"
+
+[[params.social]]
+name = "medium"
+url = "https://medium.com/@mhadidg"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/mhadidg"
+
+# Main menu pages
+# [[params.menu]]
+# name = "home"
+# url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+[[params.menu]]
+name = "library"
+url = "/library"
+
+# [[params.menu]]
+# name = "tags"
+# url = "/tags"
+
+# Syntax highlight on code blocks
+[markup]
+[markup.highlight]
+style = 'bw'
+
+# Deploy settings
+[[deployment.matchers]]
+pattern = "^.+\\.(js|css|svg|ttf|woff2)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg|gif|webp)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
