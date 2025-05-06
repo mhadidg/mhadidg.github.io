@@ -39,6 +39,9 @@ listDateFormat = '02 Jan 2006'
 
 # Footer
 showFooter = true
+footerContent = """
+Coded with ❤️ using [Hugo](https://gohugo.io). Powered by coffee.
+"""
 
 # Breadcrumbs
 [params.breadcrumbs]
