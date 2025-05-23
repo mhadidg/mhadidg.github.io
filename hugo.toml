@@ -58,9 +58,9 @@ url = "https://github.com/mhadidg"
 name = "linkedin"
 url = "https://www.linkedin.com/in/mhadidg"
 
-#[[params.social]]
-#name = "medium"
-#url = "https://medium.com/@mhadidg"
+[[params.social]]
+name = "x"
+url = "https://x.com/@mhadidg"
 
 # Main menu pages
 # [[params.menu]]
