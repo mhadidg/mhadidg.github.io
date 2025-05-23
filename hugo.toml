@@ -75,10 +75,6 @@ url = "/posts"
 name = "about"
 url = "/about"
 
-[[params.menu]]
-name = "library"
-url = "/library"
-
 # [[params.menu]]
 # name = "tags"
 # url = "/tags"
