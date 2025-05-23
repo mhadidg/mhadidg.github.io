@@ -38,7 +38,7 @@ listSummaries = true
 listDateFormat = '02 Jan 2006'
 
 # Footer
-showFooter = true
+showFooter = false
 footerContent = """
 Coded with ❤️ using [Hugo](https://gohugo.io). Powered by coffee.
 """
