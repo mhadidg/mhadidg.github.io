@@ -75,6 +75,10 @@ url = "/posts"
 name = "about"
 url = "/about"
 
+[[params.menu]]
+name = "contact"
+url = "/contact"
+
 # [[params.menu]]
 # name = "tags"
 # url = "/tags"
