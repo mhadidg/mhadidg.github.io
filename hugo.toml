@@ -19,11 +19,23 @@ colorPalette = 'default'
 hideHeader = false
 
 # Intro on homepage, content in Markdown
-homeIntroTitle = 'Hi!'
+#homeIntroTitle = 'Hi!'
 homeIntroContent = """
-Experienced software engineer specialized in Backend Development with a passion for building scalable, elegant, and
-maintainable systems. Known for clear, efficient solutions and rigorous testing practices.\\
-Feel free to read [about myself](/about) or to look at my [posts](/posts).
+I am Mustapha. Software Engineer. Travel addict.
+
+I worked at *Earthlink*, the leading ISP in Iraq. Later, I joined *Automattic*, the company behind WordPress.com,
+ WooCommerce, and many other products.
+
+Here, you can learn more [about me], or...
+
+Explore [my thoughts]. I write about random things, stuff that interests me, sparked deep emotions, or things I learn
+ along the way.
+
+If you'd like to get in touch, feel free to [reach out].
+
+[about me]: /about
+[my thoughts]: /posts
+[reach out]: /contact
 """
 
 singleDateFormat = '2 Jan 2006'
