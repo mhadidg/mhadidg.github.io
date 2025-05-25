@@ -33,12 +33,12 @@ Lumpur* for a while. I love to explore new countries, meet new people, and exper
 
 - **Design Patterns** (Gang of Four book). A foundational guide to solving common software design problems through
   language-agnostic patterns.
-- **Building Microservices**. A practical guide to building microservice architectures with real-world patterns,
-  pitfalls, and trade-offs.
+- **Building Microservices**. A practical guide to building microservice architectures with real-world patterns and
+  trade-offs.
 - **Getting Things Done**. A system for clearing mental clutter, turning overwhelm into calm, methodical productivity.
 - **The Psychology of Money**. Great lessons on how behavior, more than knowledge, drives financial success.
-- **The Righteous Mind**. Explores how morality is shaped by intuition more than reason, uncovering why smart people
-  disagree on politics and religion.
+- **The Righteous Mind**. Explores how morality is shaped by intuition more than reason. Explains deeply why smart
+  people disagree on politics and religion.
 
 **When I’m not working**, you’ll probably find me doing one of these things:
 
