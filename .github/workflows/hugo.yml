@@ -48,12 +48,15 @@ jobs:
     - name: Install Node.js dependencies
       run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
 
+    - name: Install just
+      run: sudo apt install just
+
     - name: Build with Hugo
       env:
         HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
         HUGO_ENVIRONMENT: production
       run: |
-        make build
+        just hugo-build
 
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
