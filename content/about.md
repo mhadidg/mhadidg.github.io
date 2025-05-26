@@ -54,6 +54,10 @@ Lumpur* for a while. I love to explore new countries, meet new people, and exper
 
 [Earthlink]: https://earthlink.iq
 
+[WordPress.com]: https://wordpress.com
+
+[Tumblr]: https://tumblr.com
+
 [Automattic]: https://automattic.com
 
 [MailPoet]: https://www.mailpoet.com
