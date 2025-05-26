@@ -49,9 +49,9 @@ listSummaries = true
 listDateFormat = '02 Jan 2006'
 
 # Footer
-showFooter = false
+showFooter = true
 footerContent = """
-Coded with ❤️ using [Hugo](https://gohugo.io). Powered by coffee.
+Powered by [Hugo](https://gohugo.io/) and [tomfran/typo](https://github.com/tomfran/typo) | [rss](/posts/index.xml)
 """
 
 # Breadcrumbs
