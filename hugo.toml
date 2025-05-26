@@ -11,7 +11,7 @@ tag = 'tags'
 
 [params]
 # Meta-description of homepage
-description = "A tech-oriented personal blog curated by Mustapha Hadid."
+description = "A personal blog by Mustapha Hadid."
 
 # Appearance settings
 theme = 'auto'
