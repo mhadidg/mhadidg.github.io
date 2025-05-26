@@ -40,8 +40,8 @@ If you'd like to get in touch, feel free to [reach out].
 singleDateFormat = '2 Jan 2006'
 
 # Collection to display on home
-# homeCollectionTitle = 'Posts'
-# homeCollection = 'posts'
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
 
 # Lists parameters
 paginationSize = 100
@@ -78,9 +78,9 @@ url = "https://x.com/@mhadidg"
 # name = "home"
 # url = "/"
 
-[[params.menu]]
-name = "posts"
-url = "/posts"
+#[[params.menu]]
+#name = "posts"
+#url = "/posts"
 
 [[params.menu]]
 name = "about"
