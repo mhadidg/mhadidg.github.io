@@ -6,6 +6,8 @@ languageCode = 'en-us'
 title = "Mustapha Hadid"
 theme = 'typo'
 
+googleAnalytics = "G-6B10F9VXV2"
+
 [taxonomies]
 tag = 'tags'
 
