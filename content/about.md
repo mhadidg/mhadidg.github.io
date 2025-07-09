@@ -14,12 +14,12 @@ app I can interact with. I don’t have the code anymore, but it was neat as I r
 
 Shortly after, I learned *Android* development. Applied the knowledge through a couple of freelance projects.
 
-A year later, I joined **[Earthlink]**, the leading ISP in Iraq. A great place to boost my backend skills, work on real
-infrastructure, and learn to handle big scale. I worked on the workflow automation project as an **individual
+A year later, I joined **[Earthlink]**, the leading ISP in Iraq. A great place to boost my engineering skills, work on
+real infrastructure, and learn to handle big scale. I worked on the workflow automation project as an **individual
 contributor**, then promoted to **lead the engineering side** of the project.
 
 A few years later, I joined **[Automattic]**, the company behind [WordPress.com], [Tumblr], and many other great
-products. A globally distributed company with a strong engineering culture. I joined the [MailPoet] team as a **backend
+products. A globally distributed company with a strong engineering culture. I joined the [MailPoet] team as a **software
 engineer**, part of [WooCommerce]. MailPoet handles millions of emails per day.
 
 I no longer work at Automattic.
