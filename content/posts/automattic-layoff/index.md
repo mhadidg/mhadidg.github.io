@@ -47,7 +47,7 @@ immediate termination.
 In the end, I came to realize it had nothing to do with me. Or my performance. Or team fit. Or future potential. Just
 circumstances, legalities, and cold calculations. A financial difficulty masked as restructuring.
 
-Before I end, I want to say this clearly: *Automattic was a great company.* I worked with people I admired. I grew. I
-built things that mattered. I’m still grateful. And I still have deep respect for the company and its mission.
+Regardless, *Automattic was a great company.* I worked with people I admired. I grew. I built things that mattered. I’m
+still grateful. And I still have deep respect for the company and its mission.
 
 [heard the news]: https://techcrunch.com/2025/04/02/wordpress-maker-automattic-lays-off-16-of-staff
