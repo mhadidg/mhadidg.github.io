@@ -1,0 +1,158 @@
+---
+title: "Live coding sucks"
+date: "2025-08-01"
+summary: "Why I believe live coding is NOT fair"
+description: "Why I believe live coding is NOT fair"
+toc: false
+readTime: false
+autonumber: false
+math: true
+tags: [ ]
+showTags: false
+hideBackToTop: true
+hidePagination: true
+---
+
+Some people enjoy live coding interviews. I'm not one of them.
+
+Two days ago, I stumbled upon a [post on LinkedIn]:
+
+![ln-post](ln-post.png)
+
+Sounds absurd at first. Why would a senior engineer, who has been writing code for years, struggle with
+something as simple as a basic algorithm? Did they suddenly forget how to code? Maybe. But I have a different
+perspective.
+
+### A quick story
+
+Four years ago, I applied for [Toptal]. I passed the initial stage(s). I passed a 90-minute Codility assessment (three
+problems as I recall it). Then, I failed to finish a live coding test for a full 30 minutes (more or less, I don't
+remember exactly). I revisited the test a few hours later, and I solved the problem in no time.
+
+That was super confusing. The problem wasn't that hard really. I was able to solve it, but failed to do so in the live
+coding session.
+
+This triggered my curiosity, and I did some research back then. Turns out it's a well-known phenomenon in the scientific
+literature. It's all about stress.
+
+### Your brain under stress
+
+When you're placed in a high-stakes, time-pressured situation, like live coding, your brain reacts exactly like it would
+to any other threat. The amygdala [gets activated]. Cortisol levels [spike]. Your prefrontal cortex, the part of the
+brain [responsible] for complex reasoning and working memory, [gets impaired]. Either mildly, moderately, or severely,
+depending on the individual and their baseline stress resilience.
+
+Working memory is the [most reliable proxy] (I know of) for fluid intelligence, your ability to reason, solve novel
+problems, and think abstractly. It's what you mostly need to pass live coding tests, I believe. When your prefrontal
+cortex is impaired due to stress, your working memory capacity shrinks.
+
+For some people, especially those with even mild *performance anxiety*, it becomes nearly impossible to think clearly.
+Your attention narrows. You can't hold multiple steps in your head. You forget what you just typed a few seconds ago. It
+feels like your IQ dropped by 30 points. In fact, it feels like you're a completely different version of yourself; a
+much dumber one.
+
+### The definitive paper
+
+As I was writing this post, I found a paper that absolutely surprised me. It’s a rigorous scientific study done on this
+exact topic: performance during live coding.
+
+[The paper] titled “Does Stress Impact Technical Interview Performance?”, and it’s co-authored by researchers at
+*Microsoft*. They basically asked participants to solve a coding problem in two settings:
+
+- Private setting: Alone in a room; no one watching.
+- Public setting: In front of a proctor, while thinking aloud.
+
+![private-vs-public-setting](private-vs-public-setting.png)
+
+Same task. Same time limit. Just different levels of stress.
+
+Here's what they found: **The participants being watched scored half compared to those who were alone.**
+
+The cognitive performance in the public setting had both a lower average and much wider spread (high variance);
+indicating that some candidates are disproportionately impaired under stress, while others perform as usual or even
+slightly better. That's why live coding is so unfair.
+
+All of these findings are no surprise to me. But here’s a surprising finding: **not a single woman in the public setting
+passed**, while every woman in the private setting did. So if your company wants to “support women in tech” but still
+do live coding interviews… congrats, you’re running a scientifically validated exclusion filter.
+
+### Performance under stress
+
+I like to think of live coding as a proxy for *performance under stress*. The paper I just mentioned shares the same
+view.
+
+Some companies genuinely care about this. Some even mention it in their job descriptions. They want candidates who
+perform well under pressure. If that's the case, then sure, live coding might help.
+
+But that's not how most companies frame it.
+
+Most hirings don't mention stress resilience. They don't describe the job as "high-pressure." They're not looking for
+someone to "perform well under pressure." They just want a good engineer.
+
+The engineer who [froze] during a 30-minute LeetCode exercise might be the same person who quietly ships flawless code,
+writes excellent docs, and debugs complex systems. You're not rejecting a bad engineer, you're rejecting someone who
+doesn't perform well while being watched.
+
+That's not a skill most jobs require.
+
+Companies frame live coding as a test of your coding skills; it's misleading. Even worse, it compounds performance
+anxiety. It makes candidates believe this test is a reliable measure of their coding skills. That's never true for most
+engineers.
+
+Live coding fails to measure what we think it measures. It's more accurately measuring cortisol under stress than coding
+skills.
+
+### Mitigating the stress
+
+We can't change the fact that live coding is a common practice in tech interviews. But we can try to mitigate the stress
+it causes.
+
+The best way to desensitize your brain to stress is repeated exposure. Do mock live coding sessions that mimic the real
+thing: use platforms like [Pramp], [Interviewing.io], or [LeetCode's mock assessment].
+
+You could also set a timer, record yourself (to simulate being "watched"), and think aloud. Gradually increase
+pressure (e.g., invite a friend to watch).
+
+I've also been thinking of experimenting with some supplements that I believe might help with performance under stress.
+
+- **L-tyrosine**: Stress depletes catecholamines, which *may* underlie the cognitive deficits we see during stressful
+  situations. Supplementing with L-tyrosine [may help] replenish these neurotransmitters under stress.
+
+- **L-theanine**: An amino acid found in tea that promotes relaxation. It has been shown to [reduce stress] and improve
+  focus.
+
+I haven't tried any of these yet (during an interview), and I'm not encouraging anyone to do so. But I think it *might*
+be worth experimenting with, especially if you struggle with performance anxiety. You should definitely test it in
+practice sessions first. Everyone is different, and what works for one person may not work for another.
+
+Being bad at live coding doesn't mean you're a bad engineer. It means you're human.
+
+[post on LinkedIn]: https://www.linkedin.com/posts/sklivvz_we-ask-every-candidate-a-trivial-coding-question-activity-7356034496846094336-KHaE/
+
+[Toptal]: https://www.toptal.com
+
+[gets activated]: https://pubmed.ncbi.nlm.nih.gov/29896088
+
+[spike]: https://pubmed.ncbi.nlm.nih.gov/30859159/
+
+[responsible]: https://pubmed.ncbi.nlm.nih.gov/28448453/
+
+[gets impaired]: https://pubmed.ncbi.nlm.nih.gov/19455173/
+
+[most reliable proxy]: https://pubmed.ncbi.nlm.nih.gov/21037165/
+
+[the paper]: https://par.nsf.gov/servlets/purl/10196170
+
+[froze]: https://pubmed.ncbi.nlm.nih.gov/17880916/
+
+[Pramp]: https://www.pramp.com
+
+[Interviewing.io]: https://interviewing.io
+
+[LeetCode's mock assessment]: https://leetcode.com/assessment
+
+[may help]: https://pubmed.ncbi.nlm.nih.gov/26424423/
+
+[reduce stress]: https://pubmed.ncbi.nlm.nih.gov/34562208/
+
+[reduce cortisol]: https://www.sciencedirect.com/science/article/abs/pii/S1550830724001691
