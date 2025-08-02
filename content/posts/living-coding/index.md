@@ -127,11 +127,38 @@ practice sessions first. Everyone is different, and what works for one person ma
 
 Being bad at live coding doesn't mean you're a bad engineer. It means you're human.
 
+### Edit #1
+
+Wow! This post had so many great [comments and discussions] on HN. Thank you HNers for sharing your thoughts and
+experiences.
+
+Highlighting the top comment as I think it deserves more attention.
+
+> I won't attempt to generalize from my case, but let me offer a personal anecdote.
+>
+> I'm now a successful, self-employed indie developer. One of the main reasons I stuck with indie development through
+> the hard times—the maxim that it takes 5 years to become an overnight success was true for me—was that I became
+> practically unhireable. There are multiple strikes against me: I'm middle age in an industry rife with age
+> discrimination, I don't have a computer science degree, and I experience brain freeze during live coding interviews.
+>
+> I would note that not all stress is the same. Firefighters rush into burning buildings for a living, and what could be
+> more stressful, yet many of them would panic at the idea of giving a speech to a non-burning roomful of strangers. I
+> have no problem with stress on the job, and I've successfully navigated many work emergencies during my career, but
+> something about strangers standing over my shoulder judging me, determining my financial future by providing or
+> withholding a job, like the sword of Damocles, turns my stomach inside out. And like the article author, I can revisit
+> the coding problems and solve them afterward, as soon as the interview is over. Interviewers must think I'm a fraud
+> who can't code, yet all evidence from my career, now almost 2 decades long, suggests otherwise.
+>
+> A lot of commenters causally speak of "false negatives" as if they were random, but some people, myself included, are
+> always the false negative. I am consistently filtered out by audition-style interviews. I'm not a stage performer.
+>
+> -- [lapcat](https://news.ycombinator.com/item?id=44757214)
+
 [post on LinkedIn]: https://www.linkedin.com/posts/sklivvz_we-ask-every-candidate-a-trivial-coding-question-activity-7356034496846094336-KHaE/
 
 [Toptal]: https://www.toptal.com
 
-[gets activated]: https://pubmed.ncbi.nlm.nih.gov/29896088
+[gets activated]: https://pubmed.ncbi.nlm.nih.gov/19596123/
 
 [spike]: https://pubmed.ncbi.nlm.nih.gov/30859159/
 
@@ -156,3 +183,5 @@ Being bad at live coding doesn't mean you're a bad engineer. It means you're hum
 [reduce stress]: https://pubmed.ncbi.nlm.nih.gov/34562208/
 
 [reduce cortisol]: https://www.sciencedirect.com/science/article/abs/pii/S1550830724001691
+
+[comments and discussions]: https://news.ycombinator.com/item?id=44756045
