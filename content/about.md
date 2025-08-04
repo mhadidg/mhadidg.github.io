@@ -22,7 +22,7 @@ A few years later, I joined *[Automattic]*, the company behind [WordPress.com], 
 A globally distributed company with a strong engineering culture. I joined the [MailPoet] team as a *software engineer*,
 part of [WooCommerce]. MailPoet sends millions of emails.
 
-I [no longer] work at Automattic. **I’m currently looking for backend roles**, ideally remote-first, async-friendly
+I [no longer] work at Automattic. **I’m currently looking for a backend role**, ideally remote-first, async-friendly
 company building a *great* product. If this sounds like you, please reach out =)
 
 Travel is my passion. I've visited +15 cities. Lived in *Istanbul* for over a year. Also lived in *Kuala Lumpur* for a
