@@ -160,7 +160,7 @@ Highlighting the top comment as I think it deserves more attention.
 
 [gets activated]: https://pubmed.ncbi.nlm.nih.gov/19596123/
 
-[spike]: https://pubmed.ncbi.nlm.nih.gov/30859159/
+[spike]: https://pubmed.ncbi.nlm.nih.gov/8255414/
 
 [responsible]: https://pubmed.ncbi.nlm.nih.gov/28448453/
 
