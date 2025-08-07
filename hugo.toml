@@ -23,20 +23,10 @@ hideHeader = false
 # Intro on homepage, content in Markdown
 #homeIntroTitle = 'Hi!'
 homeIntroContent = """
-I am Mustapha. Software Engineer. Travel addict.
+Software Engineer. Travel enthusiast.
 
-I worked at *Earthlink*, the leading ISP in Iraq. Later, I joined *Automattic*, the company behind WordPress.com,
- WooCommerce, and many other products.
-
-Here, you can learn more [about me], or...
-
-Explore my thoughts. I write about random things, stuff that interests me, sparked deep emotions, or things I learn
+This is my space to write about random things; stuff that interests me, sparked deep emotions, or things I learned
  along the way.
-
-If you'd like to get in touch, feel free to [reach out].
-
-[about me]: /about
-[reach out]: /contact
 """
 
 singleDateFormat = '2 Jan 2006'

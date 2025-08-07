@@ -14,11 +14,11 @@ could actually interact with.
 
 Shortly after, I learned *Android* development. Applied the knowledge through a couple of freelance projects.
 
-Then came an offer from [Earthlink], the leading ISP in Iraq. A great place to boost my engineering skills, work on
+Then came an offer from *Earthlink*, the leading ISP in Iraq. A great place to boost my engineering skills, work on
 real infrastructure, and learn to handle big scale. I worked on the workflow automation project as an *IC*, then
 promoted to *lead the engineering side* of the project.
 
-A few years later, I joined *[Automattic]*, the company behind [WordPress.com], [Tumblr], and many other great products.
+A few years later, I joined [Automattic], the company behind [WordPress.com], [Tumblr], and many other great products.
 A globally distributed company with a strong engineering culture. I joined the [MailPoet] team as a *software engineer*,
 part of [WooCommerce]. MailPoet sends millions of emails.
 
@@ -52,8 +52,6 @@ while. I love to explore new countries, meet new people, and experience differen
 - *Playing Warzone (COD)*. A great way to unwind after a long day.
 
 [Notepad]: https://en.wikipedia.org/wiki/Windows_Notepad
-
-[Earthlink]: https://earthlink.iq
 
 [WordPress.com]: https://wordpress.com
 
