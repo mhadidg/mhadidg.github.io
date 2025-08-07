@@ -154,6 +154,27 @@ Highlighting the top comment as I think it deserves more attention.
 >
 > -- [lapcat](https://news.ycombinator.com/item?id=44757214)
 
+### Edit #2
+
+Another [powerful comment on HN] which brings a whole new dimension to the conversation. If you have any thoughts,
+please leave a comment there.
+
+> I am working on a documentary film on the software engineering interview process, [Computer Silenced], which is
+> feature length extension of my project Whiteboard Challenge(R). This film focuses on this exact issue, but more
+> specifically how it affects people diagnosed with hidden disabilities, e.g. Autism, ADHD, and Anxiety as well as PTSD
+> and other stress related symptoms.
+>
+> I have 25+ years in software engineering and have been filtered through the non-job related interview process
+> described here. I also have a medical diagnosis of ASD L1 and ADHD along with stress induced dyslexia.
+>
+> Can others here please read the following federal law and confirm it applies. Through the film, I am trying to amend
+> the definition of a disability, so we have equal rights.
+>
+> Title 42 U.S. Code § 12112(b)(6) "using qualification standards, employment tests or other selection criteria that
+> screen out or tend to screen out an individual with a disability or a class of individuals with disabilities unless
+> the standard, test or other selection criteria, as used by the covered entity, is shown to be job-related for the
+> position in question and is consistent with business necessity"
+
 [post on LinkedIn]: https://www.linkedin.com/posts/sklivvz_we-ask-every-candidate-a-trivial-coding-question-activity-7356034496846094336-KHaE/
 
 [Toptal]: https://www.toptal.com
@@ -185,3 +206,7 @@ Highlighting the top comment as I think it deserves more attention.
 [reduce cortisol]: https://www.sciencedirect.com/science/article/abs/pii/S1550830724001691
 
 [comments and discussions]: https://news.ycombinator.com/item?id=44756045
+
+[powerful comment on HN]: https://news.ycombinator.com/item?id=44812984
+
+[computer silenced]: https://cinedapt.com/casting/computer-silenced/
