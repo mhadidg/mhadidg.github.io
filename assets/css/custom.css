@@ -6,3 +6,7 @@ article img[alt='ln-post'] {
 .post-line .line-title a {
     text-decoration: none;
 }
+
+.post-line .line-title [href='/posts/living-coding/']::before {
+    content: "★ ";
+}
