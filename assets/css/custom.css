@@ -2,3 +2,7 @@ article img[alt='ln-post'] {
     border: 1px solid #ccc;
     border-radius: 8px;
 }
+
+.post-line .line-title a {
+    text-decoration: none;
+}
