@@ -10,3 +10,28 @@ article img[alt='ln-post'] {
 .post-line .line-title [href='/posts/living-coding/']::before {
     content: "★ ";
 }
+
+pre {
+    scrollbar-width: thin;
+    overflow-y: auto;
+}
+
+small {
+    font-size: small;
+    vertical-align: super;
+}
+
+.customize-it.github-trends li:nth-child(5)::marker {
+    content: "★  ";
+}
+
+article a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+    transition: border-color 0.2s ease;
+}
+
+article a:hover {
+    border-bottom-color: rgba(0, 0, 0, 0.80);
+}

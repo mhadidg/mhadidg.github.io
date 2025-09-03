@@ -1,8 +1,8 @@
 ---
 title: "Live coding sucks"
 date: "2025-08-01"
-summary: "Live coding is broken; my most controversial post yet"
-description: "Live coding measure stree, not coding skills"
+summary: "Live coding measure stress, not coding skills"
+description: "Live coding measure stress, not coding skills"
 toc: false
 readTime: false
 autonumber: false
