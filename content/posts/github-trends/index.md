@@ -1,8 +1,8 @@
 ---
 title: "Github trends"
 date: "2025-09-03"
-summary: "Github's trending page is broken; I built something better"
-description: "Github's trending page is broken; I built something better"
+summary: "Github's trending page is flawed; I built something better"
+description: "Github's trending page is flawed; I built something better"
 math: true
 hideBackToTop: true
 hidePagination: true
