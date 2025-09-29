@@ -35,3 +35,19 @@ article a {
 article a:hover {
     border-bottom-color: rgba(0, 0, 0, 0.80);
 }
+
+.header-title {
+    font-size: 1.75em;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1.25em;
+}
+
+h3, h4, h5, h6 {
+    font-size: 1.15em;
+}
