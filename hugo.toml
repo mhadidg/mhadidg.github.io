@@ -25,8 +25,11 @@ hideHeader = false
 homeIntroContent = """
 Software Engineer. Travel enthusiast.
 
-This is my space to write about random things; stuff that interests me, sparked deep emotions, or things I learned
- along the way.
+Curious by default; adventurous by choice. Some of the stuff I made:
+
+- [RSSible](https://rssible.hadid.dev): URL + CSS selectors = RSS feed
+- [gh-trends](https://github.com/mhadidg/gh-trends): Newsletter (+ RSS feed) featuring trends on Github
+- A compreshive list of [Software Engineering books](https://github.com/mhadidg/software-architecture-books)
 """
 
 singleDateFormat = '2 Jan 2006'
