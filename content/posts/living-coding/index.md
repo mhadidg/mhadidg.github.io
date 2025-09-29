@@ -19,15 +19,16 @@ Two days ago, I stumbled upon a [post on LinkedIn]:
 
 ![ln-post](ln-post.png)
 
-Sounds absurd at first. Why would a senior engineer, who has been writing code for years, struggle with
-something as simple as a basic algorithm? Did they suddenly forget how to code? Maybe. But I have a different
-perspective.
+Sounds absurd at first; why would a senior engineer, who has been writing code for years, struggle with something as
+simple as a basic algorithm? Did they suddenly forget how to code? Maybe. But I have a different perspective.
 
-### A quick story
+### A quick anecdote
 
-Four years ago, I applied for [Toptal]. I passed the initial stage(s). I passed a 90-minute Codility assessment (three
-problems as I recall it). Then, I failed to finish a live coding test for a full 30 minutes (more or less, I don't
-remember exactly). I revisited the test a few hours later, and I solved the problem in no time.
+Four years ago, I applied for [Toptal]. I passed the initial stage(s). I passed a 90-minute Codility assessment - three
+problems as I recall it; I solved all three, two was enough to pass. The last one was fairly hard.
+
+Then, I failed to finish a simple live coding test (one problem) for a full 30 minutes - more or less, I don't remember
+exactly. I revisited the test a few hours later, and I solved the problem in no time.
 
 That was super confusing. The problem wasn't that hard really. I was able to solve it, but failed to do so in the live
 coding session.
@@ -39,7 +40,7 @@ literature. It's all about stress.
 
 When you're placed in a high-stakes, time-pressured situation, like live coding, your brain reacts exactly like it would
 to any other threat. The amygdala [gets activated]. Cortisol levels [spike]. Your prefrontal cortex, the part of the
-brain [responsible] for complex reasoning and working memory, [gets impaired]. Either mildly, moderately, or severely,
+brain [in charge of] complex reasoning and working memory, [gets impaired]. Either mildly, moderately, or severely,
 depending on the individual and their baseline stress resilience.
 
 Working memory is the [most reliable proxy] (I know of) for fluid intelligence, your ability to reason, solve novel
@@ -53,8 +54,7 @@ much dumber one.
 
 ### The definitive paper
 
-As I was writing this post, I found a paper that absolutely surprised me. It’s a rigorous scientific study done on this
-exact topic: performance during live coding.
+As I was writing this post, I found a rigorous scientific study that just end the debate once and for all.
 
 [The paper] titled “Does Stress Impact Technical Interview Performance?”, and it’s co-authored by researchers at
 *Microsoft*. They basically asked participants to solve a coding problem in two settings:
@@ -69,7 +69,7 @@ Same task. Same time limit. Just different levels of stress.
 Here's what they found: **The participants being watched scored half compared to those who were alone.**
 
 The cognitive performance in the public setting had both a lower average and much wider spread (high variance);
-indicating that some candidates are disproportionately impaired under stress, while others perform as usual or even
+indicating that some candidates are *disproportionately* impaired under stress, while others perform as usual or even
 slightly better. That's why live coding is so unfair.
 
 All of these findings are no surprise to me. But here’s a surprising finding: **not a single woman in the public setting
@@ -78,11 +78,11 @@ do live coding interviews… congrats, you’re running a scientifically validat
 
 ### Performance under stress
 
-I like to think of live coding as a proxy for *performance under stress*. The paper I just mentioned shares the same
-view.
+I like to think of live coding as a proxy for *performance under stress*.
 
-Some companies genuinely care about this. Some even mention it in their job descriptions. They want candidates who
-perform well under pressure. If that's the case, then sure, live coding might help.
+Some (rare) companies genuinely care about this. Some even mention it in their job descriptions. They want candidates
+who *perform well under constant pressure* (stay away from those companies). If that's the case, then sure, live coding
+might help.
 
 But that's not how most companies frame it.
 
@@ -129,10 +129,8 @@ Being bad at live coding doesn't mean you're a bad engineer. It means you're hum
 
 ### Edit #1
 
-Wow! This post had so many great [comments and discussions] on HN. Thank you HNers for sharing your thoughts and
-experiences.
-
-Highlighting the top comment as I think it deserves more attention.
+This post had so many great [comments and discussions] on HN. Highlighting the top comment as I think it deserves more
+attention.
 
 > I won't attempt to generalize from my case, but let me offer a personal anecdote.
 >
@@ -156,8 +154,7 @@ Highlighting the top comment as I think it deserves more attention.
 
 ### Edit #2
 
-Another [powerful comment on HN] which brings a whole new dimension to the conversation. If you have any thoughts,
-please leave a comment there.
+Another [powerful comment on HN] which brings a whole new dimension to the conversation.
 
 > I am working on a documentary film on the software engineering interview process, [Computer Silenced], which is
 > feature length extension of my project Whiteboard Challenge(R). This film focuses on this exact issue, but more
@@ -175,6 +172,14 @@ please leave a comment there.
 > the standard, test or other selection criteria, as used by the covered entity, is shown to be job-related for the
 > position in question and is consistent with business necessity"
 
+### Edit #3
+
+Ironically, "A technical interview has an uncanny resemblance to the trier social stress test, a procedure used for
+decades by psychologists and is the best known “gold standard” procedure for the sole purpose of reliably inducing
+stress"
+
+[Geoffrey wrote on LinkedIn] commenting on this post.
+
 [post on LinkedIn]: https://www.linkedin.com/posts/sklivvz_we-ask-every-candidate-a-trivial-coding-question-activity-7356034496846094336-KHaE/
 
 [Toptal]: https://www.toptal.com
@@ -183,7 +188,7 @@ please leave a comment there.
 
 [spike]: https://pubmed.ncbi.nlm.nih.gov/8255414/
 
-[responsible]: https://pubmed.ncbi.nlm.nih.gov/28448453/
+[in charge of]: https://pubmed.ncbi.nlm.nih.gov/28448453/
 
 [gets impaired]: https://pubmed.ncbi.nlm.nih.gov/19455173/
 
@@ -210,3 +215,5 @@ please leave a comment there.
 [powerful comment on HN]: https://news.ycombinator.com/item?id=44812984
 
 [computer silenced]: https://cinedapt.com/casting/computer-silenced/
+
+[Geoffrey wrote on LinkedIn]: https://www.linkedin.com/posts/geoffrey-b-1044_live-coding-sucks-activity-7359079532965883906-2cFx/
