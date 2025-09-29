@@ -46,8 +46,8 @@ while. I love to explore new countries, meet new people, and experience differen
 - *Reading*. Mostly through RSS feeds. I enjoy reading about many things, including (but not limited to) software
   engineering, psychology, and politics.
 - *Watching TV shows*. Seen a ton of shows. An episode every day with *Meta Quest 3*. Some of my favorites: *Hunter x
-  Hunter*, *The Last of Us*, and *Black Mirror*. I even track latest *Sci-Fi* and *Action* TV shows
-  with [RSSible].
+  Hunter*, *The Last of Us*, and *Black Mirror*. (Funny enough, I even track latest *Sci-Fi* and *Action* TV shows
+  with [RSSible])
 - *Playing Warzone (COD)*. A great way to unwind after a long day.
 
 [Notepad]: https://en.wikipedia.org/wiki/Windows_Notepad
