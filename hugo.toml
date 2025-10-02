@@ -30,6 +30,8 @@ Curious by default; adventurous by choice. Some of the stuff I made:
 - [RSSible](https://rssible.hadid.dev): URL + CSS selectors = RSS feed
 - [gh-trends](https://github.com/mhadidg/gh-trends): Newsletter (+ RSS feed) featuring trends on Github
 - A compreshive list of [Software Engineering books](https://github.com/mhadidg/software-architecture-books)
+
+Subscribe to [RSS feed](/posts/index.xml).
 """
 
 singleDateFormat = '2 Jan 2006'
@@ -46,7 +48,7 @@ listDateFormat = '02 Jan 2006'
 # Footer
 showFooter = true
 footerContent = """
-Powered by [Hugo](https://gohugo.io/) and [tomfran/typo](https://github.com/tomfran/typo) | [rss](/posts/index.xml)
+Powered by [Hugo](https://gohugo.io/) and [typo](https://github.com/tomfran/typo)
 """
 
 # Breadcrumbs
