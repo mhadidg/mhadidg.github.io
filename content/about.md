@@ -28,7 +28,7 @@ products. [Contact](/contact) for résumé; I won't disappoint =)
 Travel is my passion. I've visited +15 cities. Lived in *Istanbul* for over a year. Also lived in *Kuala Lumpur* for a
 while. I love to explore new countries, meet new people, and experience different cultures.
 
-**[Reading books]** is one of my favorite ways to learn big things, explore variant sciences, and just expand my
+**[Reading books]** is one of my favorite ways to learn big things, explore different sciences, and just expand my
 forever-shallow comprehension of the world; some of my favorites:
 
 - *Design Patterns* (Gang of Four book). A foundational guide to solving common software design problems through
