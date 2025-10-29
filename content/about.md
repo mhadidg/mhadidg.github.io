@@ -8,25 +8,28 @@ hidePagination: true
 I engineer software with a bias toward simplicity, clarity, and elegance. Big fan of open-source principles and
 standards.
 
-My journey with coding started in college. I learned the basics there. Right after graduation, I picked up *Python* and
-built a simple [Notepad]-like app. My very first "real-world" project. Incredible feeling to see my code turn into a GUI
-app I could actually interact with.
+I learned coding in college. After graduation, I picked up *Python* and built a simple [Notepad]-like app. My very
+first "real-world" project.
 
-Shortly after, I learned *Android* development. Applied the knowledge through a couple of freelance projects.
+Shortly after, I learned *Android* development; applied the knowledge through a couple of freelance projects.
 
-Then came an offer from *Earthlink*, the leading ISP in Iraq. A great place to boost my engineering skills, work on
-real infrastructure, and learn to handle big scale.
+Then I worked for *Earthlink*. A great place to boost my engineering skills, work on real infrastructure, and learn to
+handle big scale.
 
-A few years later, I joined [Automattic], the company behind [WordPress.com], [Tumblr], and many other great products.
-A globally distributed company with a strong engineering culture.
+A few years later, I joined [Automattic], the company behind *WordPress* and many other great products. A globally
+distributed company with a strong engineering culture. I grow a lot there and worked with some of the brightest
+engineers.
 
-I [no longer] work at Automattic. **I'm currently looking for a backend role**, ideally remote-first, async-friendly
-company building a *great* product. If this sounds like you, please reach out =)
+I no longer work at Automattic. **I'm currently looking for a backend role**, ideally remote-first, async-friendly
+company building a *great* product. I have strong experience with *TypeScript/Node.js*, *Ruby*, *Java*, and fair
+experience with *Python*. I'm proactive, fast learner, and the type of engineer that makes a real impact on
+products. [Contact](/contact) for résumé; I won't disappoint =)
 
 Travel is my passion. I've visited +15 cities. Lived in *Istanbul* for over a year. Also lived in *Kuala Lumpur* for a
 while. I love to explore new countries, meet new people, and experience different cultures.
 
-**I'm [in love with books]**. Some of my favorites:
+**[Reading books]** is one of my favorite ways to learn big things, explore variant sciences, and just expand my
+forever-shallow comprehension of the world; some of my favorites:
 
 - *Design Patterns* (Gang of Four book). A foundational guide to solving common software design problems through
   language-agnostic patterns.
@@ -36,6 +39,8 @@ while. I love to explore new countries, meet new people, and experience differen
 - *The Psychology of Money*. Great lessons on how behavior, more than knowledge, drives financial success.
 - *The Righteous Mind*. Explores how morality is shaped by intuition more than reason. Explains deeply why smart
   people disagree on politics and religion.
+- *Nonviolent Communication*: A framework for speaking and listening with empathy. A guide to resolving conflict by
+  identifying feelings and needs behind word.
 
 **When I'm not working**, you'll probably find me doing one of these things:
 
@@ -52,8 +57,6 @@ while. I love to explore new countries, meet new people, and experience differen
 
 [Notepad]: https://en.wikipedia.org/wiki/Windows_Notepad
 
-[WordPress.com]: https://wordpress.com
-
 [Tumblr]: https://tumblr.com
 
 [Automattic]: https://automattic.com
@@ -62,9 +65,7 @@ while. I love to explore new countries, meet new people, and experience differen
 
 [WooCommerce]: https://woocommerce.com
 
-[no longer]: https://hadid.dev/posts/automattic-layoff/
-
-[in love with books]: https://www.goodreads.com/user/show/63237197
+[reading books]: https://www.goodreads.com/user/show/63237197
 
 [here]: https://www.alltrails.com/members/mustapha-hadid
 
