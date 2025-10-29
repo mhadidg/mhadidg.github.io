@@ -5,30 +5,34 @@ hideBackToTop: true
 hidePagination: true
 ---
 
-I engineer software with a bias toward simplicity, clarity, and elegance. Big fan of open-source principles and
+I engineer software with a bias toward simplicity, reliability, and impact. True believer in open-source principles and
 standards.
 
-I learned coding in college. After graduation, I picked up *Python* and built a simple [Notepad]-like app. My very
-first "real-world" project.
+My career started in Android development, where I deliver a couple of freelance projects for clients. It wasn't a long
+journey, but it was a great experience and a non-trivial exercise of my technical and soft skills.
 
-Shortly after, I learned *Android* development; applied the knowledge through a couple of freelance projects.
+Later, I joined *Earthlink*, where I worked on large-scale infrastructure and learned how to build systems that scale,
+are reliable, and are easy to maintain.
 
-Then I worked for *Earthlink*. A great place to boost my engineering skills, work on real infrastructure, and learn to
-handle big scale.
+At that time, I was already heavily-invested in reading books about building software right, books like *Clean Code*,
+*The Pragmatic Programmer*, *Design Patterns*, *Building Microservices*,
+and [many more](https://www.goodreads.com/review/list/63237197?shelf=read).
 
 A few years later, I joined [Automattic], the company behind *WordPress* and many other great products. A globally
-distributed company with a strong engineering culture. I grow a lot there and worked with some of the brightest
-engineers.
+distributed company with a strong engineering culture. I grew a lot there, collaborating with brilliant engineers
+from all over the world.
 
-I no longer work at Automattic. **I'm currently looking for a backend role**, ideally remote-first, async-friendly
-company building a *great* product. I have strong experience with *TypeScript/Node.js*, *Ruby*, *Java*, and fair
-experience with *Python*. I'm proactive, fast learner, and the type of engineer that makes a real impact on
-products. [Contact](/contact) for résumé; I won't disappoint =)
+And yet... I no longer work at Automattic.
 
-Travel is my passion. I've visited +15 cities. Lived in *Istanbul* for over a year. Also lived in *Kuala Lumpur* for a
-while. I love to explore new countries, meet new people, and experience different cultures.
+I'm **looking for a backend or backend-leaning fullstack role**, ideally remote-first, async-friendly company building a
+*great* product. I have strong experience with *TypeScript/Node.js*, *Ruby*, *Java*, and fair experience with *Python*.
+I'm proactive, fast learner, and the type of engineer that makes a real impact on products. [Contact](/contact) for
+résumé; I won't disappoint =)
 
-**[Reading books]** is one of my favorite ways to learn big things, explore different sciences, and just expand my
+Travel is my passion; I've been to +15 cities in many countries. Lived in *Istanbul* for over a year; also lived in
+*Kuala Lumpur* for a while. I love to explore new countries, meet new people, and experience different cultures.
+
+**[Reading books]** is my preferred way to learn big things, explore different sciences, and just expand my
 forever-shallow comprehension of the world; some of my favorites:
 
 - *Design Patterns* (Gang of Four book). A foundational guide to solving common software design problems through
