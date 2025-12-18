@@ -26,8 +26,7 @@ And yet... I no longer work at Automattic.
 
 I'm **looking for a backend or backend-leaning fullstack role**, ideally remote-first, async-friendly company building a
 *great* product. I have strong experience with *TypeScript/Node.js*, *Ruby*, *Java*, and fair experience with *Python*.
-I'm proactive, fast learner, and the type of engineer that makes a real impact on products. [Contact](/contact) for
-résumé; I won't disappoint =)
+I'm proactive, fast learner, and the type of engineer that makes a real impact on products.
 
 Travel is my passion; I've been to +15 cities in many countries. Lived in *Istanbul* for over a year; also lived in
 *Kuala Lumpur* for a while. I love to explore new countries, meet new people, and experience different cultures.
