@@ -184,8 +184,8 @@ stress"
 
 Congrats for reading this far.
 
-**In case you're hiring a software engineer**, I'm actually looking for a job. I have strong backend and mid-frontend
-experience; more about me [here](/about).
+**In case you're hiring software engineers**, I'm actually looking for a backend or backend-leaning fullstack role;
+more about me at [/about](/about).
 
 [post on LinkedIn]: https://www.linkedin.com/posts/sklivvz_we-ask-every-candidate-a-trivial-coding-question-activity-7356034496846094336-KHaE/
 
