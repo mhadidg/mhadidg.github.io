@@ -8,24 +8,22 @@ hideBackToTop: true
 hidePagination: true
 ---
 
-Suppose you run an A/B test on a signup page. Your baseline conversion is 3%. You want to ship a new version, but
-you're not sure if it is actually better, so you decide to A/B-test it. After running the experiment, you've got
-the numbers:
+Suppose you ran an A/B test on the signup page of your app. You wanted to ship a new version, but you weren't sure
+if it is actually better, so you decided to A/B-test it. You did the experiment, and you've got these numbers:
 
 - Baseline conversion: **3%**
 - New version conversion: **3.5%**
 
-Is conversion rate a sufficient evidence that the new version is actually better? No, not really. I'll explain,
-but before that...
+Things looks good. The conversion rate is better, so the new version must be better, right? Well, not necessarily.
 
 Let's say there are three realities of this experiment. Three companies, exact same experiment and result, but
 different number of visitors in their experiments. The first had 100 visits per version - the original and new signup
 page; 200 visits in total. The second had 1,000 per version. The third had 10,000 per version.
 
-Which reality has the highest chance that the new version is *actually* better? Most would agree it should be the
-10,000-customer one. By the end of this post, we'll quantify the exact probability that the new version is actually
-better for each one of these realities. More importantly, we'll explore why averages could deceive us into conclusions
-the data don't warrant, leading us into a worse off situation.
+Which reality has the highest chance that the new version is *actually* better? By intuition, most would agree it should
+be the 10,000-customer one. By the end of this post, we'll quantify the exact probability that the new version is
+actually better for each one of these realities. More importantly, we'll explore why averages could deceive us into
+conclusions the data don't warrant, potentially leading us into a worse off situation.
 
 ### A quick intuition first
 
@@ -56,7 +54,7 @@ detrimental; without sufficient sample size, you can never be sure *enough* of t
 
 ### The standard error
 
-The "3.5%" rate we observed from the experiment is the conversion rate of *the visitors who happened to land in the
+The new "3.5%" rate we observed from the experiment is the conversion rate of *the visitors who happened to land in the
 experiment*. The thing you care about; the rate you'd see if all your future visitors used this version, is unobservable
 future. You're trying to guess it from a sample.
 
@@ -103,7 +101,7 @@ $ \sqrt{10} \approx 3.16 $). Put differently, to cut the noise in half, you need
 
 So for Reality 1, the swing is roughly ±1.7%, but the lift in conversion rate we observed is only 0.5%; the noise cover
 the whole potential "signal." In Reality 3, the swing is roughly one-third (0.5/0.17) of the lift; that implies we're
-likely getting a signal here, because the nosie alone won't likely increase the rate by 1%.
+likely getting a signal here, because the nosie alone won't likely increase the rate by 0.5%.
 
 Things are getting more complicated, but we're almost there.
 
@@ -138,8 +136,8 @@ probability the new version is actually better than the baseline:
 | Visitors per version | z-score = lift / $SE_{\text{diff}}$ | $P(\text{new is better})$ |
 |----------------------|-------------------------------------|---------------------------|
 | 100                  | 0.5 / 2.51 ≈ 0.2                    | ~56%                      |
-| 1000                 | 0.5 / 0.79 ≈ 0.63                   | ~74%                      |
-| 10000                | 0.5 / 0.25 ≈ 1.99                   | ~98%                      |
+| 1,000                | 0.5 / 0.79 ≈ 0.63                   | ~74%                      |
+| 10,000               | 0.5 / 0.25 ≈ 1.99                   | ~98%                      |
 
 In Reality 1, the probability is just 56%; that's roughly a coin flip. You can basically ignore the experiment entirely
 and just ship based on what you think is better. The thing is, the data doesn't provide any evidence to support your
