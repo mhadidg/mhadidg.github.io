@@ -6,8 +6,11 @@ hidePagination: true
 ---
 
 I engineer software with a bias toward business outcomes; that imply moving fast early on when uncertainty is high and
-optimize for long-term economics as uncertainty decline over time. I do my best to be as pragmatic as possible
-optimizing the ROI for what I take.
+optimize for long-term economics as uncertainty fall over time. Curious by default; strive to understand the structural
+reality of things - stuff that most people get wrong by default.
+
+Self-studying business, economics, and AI mastery for software development and agentic systems. Aspired to build my own
+business or be part of a great one.
 
 Early on, I started my career with freelancing - mostly Android development, where I delivered a couple of projects for
 clients. It wasn't a long journey, but it was a great experience and a non-trivial exercise of my technical and soft
