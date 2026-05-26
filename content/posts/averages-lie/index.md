@@ -171,3 +171,10 @@ the *small sample trap*, making significant decisions and putting all the blame 
 the expected trajectory.
 
 I'm convinced that **averages lie, more often than not**.
+
+---
+
+Congrats for reading this far.
+
+**In case you're hiring software/product engineers**, I'm actually looking for a backend or backend-leaning fullstack
+role; more about me at [/about](/about).
