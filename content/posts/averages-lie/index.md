@@ -11,8 +11,8 @@ hidePagination: true
 Suppose you ran an A/B test on the signup page of your app. You wanted to ship a new version, but you weren't sure
 if it is actually better, so you decided to A/B-test it. You did the experiment, and you've got these numbers:
 
-- Baseline conversion: **3%**
-- New version conversion: **3.5%**
+- Baseline conversion: 3%
+- New version conversion: 3.5%
 
 Things looks good. The conversion rate is better, so the new version must be better, right? Well, not necessarily.
 
@@ -145,9 +145,9 @@ decision. More importantly, if you made many decisions each with ~56% likelihood
 the time.
 
 For Reality 2, it was 74%. Better, but ask yourself: would you ship a change you're 74% sure is positive and 26% sure is
-neutral or negative? For high-risk product changes (e.g., pricing page), I don't think that would be enough confidence.
-In such cases, you may want to keep the experiment running for longer; if the hypothesis is right, expect the
-probability to increase over time as you gather more and more samples.
+neutral or negative? For high-risk product changes (e.g., pricing page), I don't think that would deliver enough
+confidence. In such cases, you may want to keep the experiment running for longer; if the hypothesis is right, expect
+the probability to increase over time as you gather more and more samples.
 
 Reality 3 has a decisive probability of 98%. You can act on it without second-guessing; you should be almost
 certain at this point. That's what you can confidently call "data-driven decision."
