@@ -11,8 +11,8 @@ mastery for software development and agentic systems. Aspired to build my own bu
 Led the technical side of a workflow automation project at a big enterprise early in my career. Contributed 3+ years to
 [Automattic](https://automattic.com) - the company behind WordPress.
 
-Travel is my passion; I've been to +15 cities in many countries. Lived in *Istanbul* for over a year; also lived in
-*Kuala Lumpur* for a while. I love to explore new countries, meet new people, and experience different cultures.
+I'm a travel guy; I've been to +15 cities in many countries. Lived in *Istanbul* for over a year; also lived in
+*Kuala Lumpur* for a while. I love exploring new countries, meet new people, and experience different cultures.
 Exploring museums, historical sites, and natural wonders gives me profound pleasure.
 
 *Hiking* is my favorite activity that I, sadly, only have the chance to exploit when I'm traveling. The joy that
@@ -28,6 +28,6 @@ interesting topics, and just expand my forever-shallow comprehension of the worl
 - *Getting Things Done*. A system that teach you how to organize your mental clutter into calm, methodical productivity.
 - *The Psychology of Money*. Great lessons on how behavior, more than knowledge, drives financial success.
 - *The Righteous Mind*. Explores how morality is shaped by intuition more than reason. If you're ever wondered why
-  smart people disagree on politics and religion, you'll find the deep answer here.
+  smart people disagree on politics and religion, you'll find the scientific answer here.
 - *Nonviolent Communication*. A great book on how to resolve conflict by replacing judgments and blame with empathy and
   objective observations.
