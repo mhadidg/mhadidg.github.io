@@ -53,7 +53,7 @@ Powered by [Hugo](https://gohugo.io/) and [typo](https://github.com/tomfran/typo
 
 # Breadcrumbs
 [params.breadcrumbs]
-enabled = true
+enabled = false
 showCurrentPage = true
 home = "~"
 
